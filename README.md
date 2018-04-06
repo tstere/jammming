@@ -1,2 +1,0 @@
-# jammming
-Codecademy Jammming project
